@@ -14,7 +14,7 @@ public class Reliability_distribution {
 		int time;
 		double r_t;
 
-		failure_rate = 1.5 * (Math.pow(10, -5));
+		failure_rate = 8.1 * (Math.pow(10, -3));
 
 		for (time = 0; time <= 1500; time += 150) {
 
